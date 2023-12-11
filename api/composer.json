@@ -1,0 +1,17 @@
+{
+    "name": "asus/api",
+    "autoload": {
+        "psr-4": {
+            "Asus\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "utsavc",
+            "email": "utsavmahato05@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.9"
+    }
+}
